@@ -4,4 +4,4 @@
 
 ## 经济学
 
-- [宏观经济学](github.com/qidiliu)
+- [宏观经济学](https://github.com/QidiLiu/Summaries/tree/master/Docs/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6)
